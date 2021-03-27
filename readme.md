@@ -1,5 +1,5 @@
-# Hi (now it will work you need to have space between # and the text)
+#Hi
 
 #Hello
 
-# changing the same line to understand the conflict
+#Why markup is not working. Need to figure this out.
